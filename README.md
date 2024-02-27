@@ -1,6 +1,6 @@
 # deep-learning-challenge
 <h1>Module 21 Challenge<br></h1>
-<h2>Overview:Report on the Neural Network Model</h2>
+<h2>Overview: Report on the Neural Network Model</h2>
 <p>The nonprofit foundation Alphabet Soup wants a tool that can help it select the applicants for funding with the best chance of success in their ventures. With your knowledge of machine learning and neural networks, you’ll use the features in the provided dataset to create a binary classifier that can predict whether applicants will be successful if funded by Alphabet Soup.</p><br></p><h2>Results: Data Preprocessing</h2><br>What variable(s) are the target(s) for your model?<ul><li>The 'IS_SUCCESSFUL' column from application_df is the target variable, this is what we are trying to predict. This shows if the money was used effectively.</li></ul><br>What variable(s) are the features for your model?<ul><li>AFFILIATION—Affiliated sector of industry</li>
 <li>CLASSIFICATION—Government organization classification</li>
 <li>USE_CASE—Use case for funding</li>
